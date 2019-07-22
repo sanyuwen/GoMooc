@@ -1,0 +1,20 @@
+superuser:
+huang
+123456
+
+sanyuwen
+hcy@test.com
+qwer1234
+
+chuanyihuang235@gmail.com
+123
+
+hchuanyi@mum.edu
+asdf
+
+
+internatiionalization
+settings.py
+LANGUAGE_CODE = 'zh_hans'
+TIME_ZONE = 'Asia/Shanghai'
+USE_TZ
